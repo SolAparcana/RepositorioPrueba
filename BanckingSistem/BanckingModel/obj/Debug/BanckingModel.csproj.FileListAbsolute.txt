@@ -1,0 +1,5 @@
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BanckingSistem\BanckingModel\bin\Debug\BanckingModel.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BanckingSistem\BanckingModel\bin\Debug\BanckingModel.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BanckingSistem\BanckingModel\obj\Debug\BanckingModel.csprojResolveAssemblyReference.cache
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BanckingSistem\BanckingModel\obj\Debug\BanckingModel.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BanckingSistem\BanckingModel\obj\Debug\BanckingModel.pdb
